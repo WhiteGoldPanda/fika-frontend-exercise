@@ -20,3 +20,18 @@ The API will provide part of the image url via the `poster_path` field of each f
 **Have fun!**
 
 
+Done
+Created basic navigation
+Render data from movie api
+React Native App working on IOS device with expo,
+
+
+ToBe Done 
+
+Conversion of genres codes from movie api to genres names
+Implementation of searching feature ,
+Creation of an ability for a user to chose and add films to custom collections ,
+Creation of proper ui
+Unit tests 
+
+
